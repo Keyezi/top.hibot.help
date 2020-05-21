@@ -1,6 +1,6 @@
 # 审核人员
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../../.gitbook/assets/image%20%2812%29.png)
 
 {% hint style="info" %}
  这个名单使用`|`分割多个QQ,例如123\|345

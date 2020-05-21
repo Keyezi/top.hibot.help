@@ -1,6 +1,6 @@
 # 投票仲裁
 
-![](../../.gitbook/assets/image%20%286%29.png)
+![](../../.gitbook/assets/image%20%2823%29.png)
 
 {% hint style="danger" %}
 本功能可能失效。

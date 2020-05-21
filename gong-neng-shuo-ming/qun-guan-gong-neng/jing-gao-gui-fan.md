@@ -4,7 +4,7 @@ description: Warning!
 
 # 警告规范
 
-![](../../.gitbook/assets/image%20%282%29.png)
+![](../../.gitbook/assets/image%20%2813%29.png)
 
 ## 会触发警告的二种情况：
 

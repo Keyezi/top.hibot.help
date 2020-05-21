@@ -18,5 +18,12 @@
   * [审核人员](gong-neng-shuo-ming/qun-guan-gong-neng/shen-he-ren-yuan.md)
   * [投票仲裁](gong-neng-shuo-ming/qun-guan-gong-neng/tou-piao-zhong-cai.md)
   * [入群提示](gong-neng-shuo-ming/qun-guan-gong-neng/ru-qun-ti-shi.md)
+  * [群聊关键词监控](gong-neng-shuo-ming/qun-guan-gong-neng/qun-liao-guan-jian-ci-jian-kong.md)
+  * [刷屏监控](gong-neng-shuo-ming/qun-guan-gong-neng/shua-ping-jian-kong.md)
+  * [文件监控](gong-neng-shuo-ming/qun-guan-gong-neng/wen-jian-jian-kong.md)
+  * [一件撤回](gong-neng-shuo-ming/qun-guan-gong-neng/yi-jian-che-hui.md)
+  * [智能名片](gong-neng-shuo-ming/qun-guan-gong-neng/zhi-neng-ming-pian.md)
+  * [智能审核入群](gong-neng-shuo-ming/qun-guan-gong-neng/zhi-neng-shen-he-ru-qun.md)
+  * [定时通知/全群禁言](gong-neng-shuo-ming/qun-guan-gong-neng/ding-shi-tong-zhi-quan-qun-jin-yan.md)
 * [伊洛娜](gong-neng-shuo-ming/yi-luo-na.md)
 
