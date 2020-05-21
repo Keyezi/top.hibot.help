@@ -4,7 +4,7 @@ description: May be now is the Devil.
 
 # 群聊关键词监控
 
-![](../../.gitbook/assets/image%20%2819%29.png)
+![](../../.gitbook/assets/image%20%2826%29.png)
 
 {% hint style="info" %}
 新增简体繁体转换，默认开启，需要关闭请找用户群
@@ -30,7 +30,7 @@ description: May be now is the Devil.
 
 等级规避指的是对群头衔等级的规避
 
-如图: ![](../../.gitbook/assets/image%20%2826%29.png) ![](../../.gitbook/assets/image%20%2810%29.png) 
+如图: ![](../../.gitbook/assets/image%20%2834%29.png) ![](../../.gitbook/assets/image%20%2814%29.png) 
 
 #### 则此成员的等级为2.
 

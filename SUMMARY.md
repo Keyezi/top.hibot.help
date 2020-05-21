@@ -25,5 +25,9 @@
   * [智能名片](gong-neng-shuo-ming/qun-guan-gong-neng/zhi-neng-ming-pian.md)
   * [智能审核入群](gong-neng-shuo-ming/qun-guan-gong-neng/zhi-neng-shen-he-ru-qun.md)
   * [定时通知/全群禁言](gong-neng-shuo-ming/qun-guan-gong-neng/ding-shi-tong-zhi-quan-qun-jin-yan.md)
+  * [控制群人数](gong-neng-shuo-ming/qun-guan-gong-neng/kong-zhi-qun-ren-shu.md)
+  * [自动踢人](gong-neng-shuo-ming/qun-guan-gong-neng/zi-dong-ti-ren.md)
+  * [邀请统计](gong-neng-shuo-ming/qun-guan-gong-neng/yao-qing-tong-ji.md)
+  * [问答词库](gong-neng-shuo-ming/qun-guan-gong-neng/wen-da-ci-ku.md)
 * [伊洛娜](gong-neng-shuo-ming/yi-luo-na.md)
 

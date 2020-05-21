@@ -1,10 +1,10 @@
 # 智能名片
 
-![](../../.gitbook/assets/image%20%2816%29.png)
-
-![](../../.gitbook/assets/image%20%288%29.png)
-
 ![](../../.gitbook/assets/image%20%2822%29.png)
+
+![](../../.gitbook/assets/image%20%2812%29.png)
+
+![](../../.gitbook/assets/image%20%2829%29.png)
 
 {% hint style="success" %}
 ## 群内发送【一键改名】即可全体改名

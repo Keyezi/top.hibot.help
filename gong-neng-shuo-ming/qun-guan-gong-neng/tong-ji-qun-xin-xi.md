@@ -4,7 +4,7 @@ description: 如图所示。
 
 # 统计群信息
 
-![](../../.gitbook/assets/image%20%2825%29.png)
+![](../../.gitbook/assets/image%20%2833%29.png)
 
 > 开启后可以统计每日的入群信息，相对于QQ自带的说明更能查看到群员变动信息。
 

@@ -4,7 +4,7 @@ description: 不会还有人用群文件打广告吧
 
 # 文件监控
 
-![](../../.gitbook/assets/image%20%2817%29.png)
+![](../../.gitbook/assets/image%20%2823%29.png)
 
 ## 这个真的不想解释了，懂的人用吧，不懂可以问群主
 

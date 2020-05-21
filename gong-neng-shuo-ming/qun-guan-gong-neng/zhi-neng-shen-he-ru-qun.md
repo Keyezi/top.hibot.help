@@ -1,8 +1,8 @@
 # 智能审核入群
 
-![&#x2460;](../../.gitbook/assets/image%20%286%29.png)
+![&#x2460;](../../.gitbook/assets/image%20%288%29.png)
 
-![&#x2461;](../../.gitbook/assets/image%20%2820%29.png)
+![&#x2461;](../../.gitbook/assets/image%20%2827%29.png)
 
 ## 审核检测顺序
 
