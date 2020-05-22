@@ -2,7 +2,7 @@
 description: 傻瓜式操作
 ---
 
-# 一件撤回
+# 一键撤回
 
 ![](../../.gitbook/assets/image%20%2819%29.png)
 
