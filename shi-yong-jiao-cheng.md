@@ -26,13 +26,19 @@ description: 欢迎使用嗨机器人！
 
 {% embed url="https://afdian.net/@Hibot" %}
 
+#### 选择我们的机器人方案
+
 ![](.gitbook/assets/image%20%2847%29.png)
+
+#### 选择我们所需的时长、付款方式
 
 ![](.gitbook/assets/image%20%2838%29.png)
 
-
+#### 填写留言，付款。
 
 ![](.gitbook/assets/image%20%2839%29.png)
+
+####  然后查看私聊，获取我们的卡密:
 
 ![](.gitbook/assets/image%20%2851%29.png)
 
