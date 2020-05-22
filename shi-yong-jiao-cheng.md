@@ -28,7 +28,7 @@ description: 欢迎使用嗨机器人！
 
 #### 选择我们的机器人方案
 
-![](.gitbook/assets/image%20%2847%29.png)
+![](.gitbook/assets/image%20%2852%29.png)
 
 #### 选择我们所需的时长、付款方式
 
@@ -36,11 +36,11 @@ description: 欢迎使用嗨机器人！
 
 #### 填写留言，付款。
 
-![](.gitbook/assets/image%20%2839%29.png)
+![](.gitbook/assets/image%20%2840%29.png)
 
 ####  然后查看私聊，获取我们的卡密:
 
-![](.gitbook/assets/image%20%2852%29.png)
+![](.gitbook/assets/image%20%2860%29.png)
 
 然后我们添加机器人好友，发送类似于以下的内容，即可完成激活。
 
@@ -49,7 +49,7 @@ description: 欢迎使用嗨机器人！
 示例：充值XXXXX[8888888]
 ```
 
-![](.gitbook/assets/image%20%2841%29.png)
+![](.gitbook/assets/image%20%2842%29.png)
 
 ## 二、开始使用
 
@@ -59,29 +59,29 @@ description: 欢迎使用嗨机器人！
 
 #### 手机：
 
-![](.gitbook/assets/image%20%2846%29.png)
+![](.gitbook/assets/image%20%2851%29.png)
 
-![](.gitbook/assets/image%20%2849%29.png)
+![](.gitbook/assets/image%20%2856%29.png)
 
-![](.gitbook/assets/image%20%2844%29.png)
+![](.gitbook/assets/image%20%2847%29.png)
 
 #### PC：
 
-![](.gitbook/assets/image%20%2842%29.png)
+![](.gitbook/assets/image%20%2844%29.png)
 
-![](.gitbook/assets/image%20%2843%29.png)
+![](.gitbook/assets/image%20%2845%29.png)
 
-![](.gitbook/assets/image%20%2850%29.png)
+![](.gitbook/assets/image%20%2858%29.png)
 
 ###  然后我们给机器人设置管理
 
-![](.gitbook/assets/image%20%2851%29.png)
+![](.gitbook/assets/image%20%2859%29.png)
 
 ### 设置好管理后 
 
 #### 我们发送菜单，了解下我们需要的功能
 
-![](.gitbook/assets/image%20%2840%29.png)
+![](.gitbook/assets/image%20%2841%29.png)
 
 ###  了解我们需要的功能后
 
@@ -94,7 +94,7 @@ description: 欢迎使用嗨机器人！
 
 ![](.gitbook/assets/image%20%2837%29.png)
 
-![](.gitbook/assets/image%20%2845%29.png)
+![](.gitbook/assets/image%20%2848%29.png)
 
 点开链接，设置好后**`点击最上面的保存`进行保存**
 

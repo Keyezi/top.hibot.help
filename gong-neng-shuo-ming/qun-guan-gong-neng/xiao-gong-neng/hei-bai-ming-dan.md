@@ -19,11 +19,13 @@
 
 ## 添加、删除指令
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](../../../.gitbook/assets/image%20%2855%29.png)
 
 {% hint style="success" %}
 如果被黑名单踢出是无法入群的，需要管理手动拉入
 
 全局去黑请找机器人管理。
 {% endhint %}
+
+![](../../../.gitbook/assets/image%20%2853%29.png)
 

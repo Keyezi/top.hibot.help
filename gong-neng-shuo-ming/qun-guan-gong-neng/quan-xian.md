@@ -18,3 +18,7 @@ description: 或许很难懂?
 
 使用`|`分割多个QQ号
 
+## 权限查询
+
+![](../../.gitbook/assets/image%20%2850%29.png)
+
