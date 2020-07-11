@@ -12,3 +12,5 @@ description: 欢迎使用嗨机器人！
 
 商业合作请找群主。
 
+[![](.gitbook/assets/support-me-on-afd-bai-di-.png) ](https://afdian.net/@Hibot)
+
